@@ -1,0 +1,15 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    front-family:helvetica,arial,sans-serif;
+    color: #666;
+    background: #f2f2f2;
+    front-size: 1em;
+    line-height: 1.5em; 
+}
+#main-header
+{
+ backgrownd: #333;
+
+}
